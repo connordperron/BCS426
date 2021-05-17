@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
+  <PropertyGroup>
+    <OutputType>exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>C:\Users\ilknu\Documents\TEXT BOOKS-FARMINGDALE\BCS426-C Sharp-fall 2020\Chapter 2\Chapter 2\02_code\CoreCSharpSamples\Backup\ArgumentsSample\</UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+</Project>

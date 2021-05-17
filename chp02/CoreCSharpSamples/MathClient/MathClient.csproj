@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>C:\Users\ilknu\Documents\TEXT BOOKS-FARMINGDALE\BCS426-C Sharp-fall 2020\Chapter 2\Chapter 2\02_code\CoreCSharpSamples\Backup\MathClient\</UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MathLib\MathLib.csproj" />
+  </ItemGroup>
+</Project>
