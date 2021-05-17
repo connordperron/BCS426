@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hEqK6FAbTUuj1L+wrqYY6fALf9zuqRKqXk8rQXS7WA8H/sA2f3kb7Mum+vWDT3oXDWufuEkd+bGurUIeAUY3+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Connor\\OneDrive\\School\\BCS 426 - C# Programming\\Concepts\\chp06\\OperatorsAndCasts\\OperatorsSample\\OperatorsSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

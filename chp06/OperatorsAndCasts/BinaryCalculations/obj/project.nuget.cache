@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "56swiZ5mi2jDoIBHVmFCkykpvt4/O6Z2l7OMTEYvifNRU+x4w+z+W0LdI7NPen/d7zhRQ1jjWvRtMChGSRJeyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Connor\\OneDrive\\School\\BCS 426 - C# Programming\\Concepts\\chp06\\OperatorsAndCasts\\BinaryCalculations\\BinaryCalculations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
