@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtY3eDfFFgJusE4aMWtLqHPgH6uTq+TB/4Gpx9U023mBhn1VNc4ChJO1F5/ubqOEGv50ngpeTvi2iIb75+CcAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Connor\\OneDrive\\School\\BCS 426 - C# Programming\\Concepts\\chp05\\GenericsSamples\\Specialization\\Specialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Connor\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

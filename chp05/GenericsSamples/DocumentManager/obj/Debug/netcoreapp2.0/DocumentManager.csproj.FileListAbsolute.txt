@@ -1,0 +1,10 @@
+C:\Users\Connor\OneDrive\School\BCS 426 - C# Programming\Concepts\chp05\GenericsSamples\DocumentManager\bin\Debug\netcoreapp2.0\DocumentManager.deps.json
+C:\Users\Connor\OneDrive\School\BCS 426 - C# Programming\Concepts\chp05\GenericsSamples\DocumentManager\bin\Debug\netcoreapp2.0\DocumentManager.runtimeconfig.json
+C:\Users\Connor\OneDrive\School\BCS 426 - C# Programming\Concepts\chp05\GenericsSamples\DocumentManager\bin\Debug\netcoreapp2.0\DocumentManager.runtimeconfig.dev.json
+C:\Users\Connor\OneDrive\School\BCS 426 - C# Programming\Concepts\chp05\GenericsSamples\DocumentManager\bin\Debug\netcoreapp2.0\DocumentManager.dll
+C:\Users\Connor\OneDrive\School\BCS 426 - C# Programming\Concepts\chp05\GenericsSamples\DocumentManager\bin\Debug\netcoreapp2.0\DocumentManager.pdb
+C:\Users\Connor\OneDrive\School\BCS 426 - C# Programming\Concepts\chp05\GenericsSamples\DocumentManager\obj\Debug\netcoreapp2.0\DocumentManager.csprojAssemblyReference.cache
+C:\Users\Connor\OneDrive\School\BCS 426 - C# Programming\Concepts\chp05\GenericsSamples\DocumentManager\obj\Debug\netcoreapp2.0\DocumentManager.AssemblyInfoInputs.cache
+C:\Users\Connor\OneDrive\School\BCS 426 - C# Programming\Concepts\chp05\GenericsSamples\DocumentManager\obj\Debug\netcoreapp2.0\DocumentManager.AssemblyInfo.cs
+C:\Users\Connor\OneDrive\School\BCS 426 - C# Programming\Concepts\chp05\GenericsSamples\DocumentManager\obj\Debug\netcoreapp2.0\DocumentManager.dll
+C:\Users\Connor\OneDrive\School\BCS 426 - C# Programming\Concepts\chp05\GenericsSamples\DocumentManager\obj\Debug\netcoreapp2.0\DocumentManager.pdb
